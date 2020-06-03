@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<project name="HelloWorld" default="build">
+
+   	<property name="build.debug" value="false" />
+   	<property name="build.dir" value="build" />
+
+   	<target name="clean" description="remove all build products">
+        <delete dir="${build.dir}"  if="${directory::exists(build.dir)}" />
+   	</target>
+   	
+   	<target name="init" depends="clean" escription="creates the build directory"> 
+        <mkdir dir="${build.dir}" />
+   	</target>
+
+   	<target name="build" depends="init" description="compiles the sources files">
+        <csc target="exe" output="${build.dir}/HelloWorld.exe" debug="${build.debug}">
+            <sources>
+                <include name="HelloWorld/Program.cs" />
+            </sources>
+        </csc>
+   	</target>
+   	
+</project>

@@ -1,0 +1,12 @@
+C:\Users\Vijay\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\Vijay\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\Vijay\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Vijay\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.exe
+C:\Users\Vijay\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.pdb
+E:\Tryouts\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+E:\Tryouts\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb
+D:\ref\tc_service_task\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+D:\ref\tc_service_task\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+D:\ref\tc_service_task\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ref\tc_service_task\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+D:\ref\tc_service_task\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb
